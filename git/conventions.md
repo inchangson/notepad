@@ -1,0 +1,16 @@
+[git naming convention]
+- feat : 새로운 기능
+- fix : 버그
+- docs: 문서 관련
+- style: 포맷, 세미콜론, 등 스타일 관련
+- refactor: 리팩터링
+- test: 테스트 관련 
+- chore: gradle 등 빌드 관련 수정할 
+- - -
+- add : 코드나 테스트, 예제, 문서 등의 추가 생성 시
+- remove: 코드의 삭제 (= clean, eliminate)
+- improve: 호환성, 테스트 커버리지, 성능, 접근성 등의 향상
+- implement: 주목할만한 구현체 생성 시
+- move: 코드의 이동
+- rename: 이름 변경
+- update: 코드 외에 개정이나 버전 업데이트가 있을 시 (문서, 리소스, 라이브러리 등)
