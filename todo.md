@@ -3,7 +3,7 @@
   - (내용정리)ResponseEntity
   - ~~Lombok.Data annotation~~
 - 클래스 구조 정리(DTO -> Entity 통합, 최소화)
-- **Gson** 적용
+- **Jackson** 세부 적용
 - Logback 세부설정
 - 리팩터링(테스트 코드 ~ 함수 분리, 성능 및 가독성 개선)
   
@@ -20,6 +20,18 @@
 - 모의고사: https://school.programmers.co.kr/learn/courses/11132/ (1회차, 90min)
 - 기출문제: https://edu.goorm.io/lecture/17301/cos-pro-1%EA%B8%89-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-java (5회차, 각 90min)
 - 인프런 100제 강의(25prob/ 1day)
+
+### github 정리
+- private 시킨 repo들 수정 후 reopen
+  - tabular data prediction
+  - tabular data analysis
+  - web crawling
+  - web service1(django) : sns service
+  - web service2(django) : education service
+  - api(flask) : data engineering
+- 개인 공부
+  - DataStructure
+  - Algorithm
 
 ### 기타 회사 업무
 - n/a
