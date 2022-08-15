@@ -3,6 +3,10 @@
 
 > https://speakerdeck.com/taehwandev/kotlin-coroutines
 
+> https://www.youtube.com/watch?v=eJF60hcz3EU
+
+
+
 # Kotlin in Action 내용 정리
 ## 정의
 - 코루틴은 컴퓨터 프로그램 구성 요소 중 하나로 비선점형 **멀티태스킹**(non-preemptive multitasking)을 수행하는 일반화한 **subroutine**이다.
