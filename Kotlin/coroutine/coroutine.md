@@ -126,7 +126,7 @@ launchInGlobalScope coroutine started
 main terminated
 ~~~ 
 - 만약 Thread.sleep(5000L)이 없다면 launch가 아예 실행되지 않았을 것이다.
-  - GlobalScpoe는 메인 스레그다 실행 중일 때만 동작을 보장하기 떄문.
+  - GlobalScpoe는 메인 스레그가 실행 중일 때만 동작을 보장하기 떄문.
   - 이를 방지하기 위해 비동기적으로 launch를 실행하거나, launch가 모두 다 실행될 때까지 기다려야 한다.
     - 코루틴 실행이 끝날 때까지 현재 스레드를 블록하는 runBlocking() 함수
 
